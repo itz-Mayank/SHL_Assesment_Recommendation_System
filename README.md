@@ -195,6 +195,3 @@ This script uses your recommender "brain" to generate the final `predictions.csv
 python run_predictions.py
 ```
 This will create your deliverable file at `submission/predictions.csv`.
-
-### 2. `project_report.pdf`
-[cite_start]The 2-page PDF document outlining your approach, performance, and improvements, as described in the assignment. [cite: 32-34]
