@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+sentence-transformers
+chromadb
+google-generativeai
+fastapi
+uvicorn[standard]
+python-dotenv
+streamlit
