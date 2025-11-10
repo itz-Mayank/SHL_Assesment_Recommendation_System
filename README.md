@@ -46,7 +46,6 @@ shl-recommender/
 │       └── app.py          # The Streamlit web application
 └── submission/
     ├── predictions.csv     # The final generated predictions
-    └── project_report.pdf  # The 2-page approach document
 ```
 
 ---
