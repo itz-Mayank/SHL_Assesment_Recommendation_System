@@ -189,8 +189,6 @@ curl -X 'POST' \
 This script uses your recommender "brain" to generate the final `predictions.csv` file from the `test_set.csv`.
 
 ```bash
-# Make sure your API is NOT running (this runs as a standalone script)
-# Press Ctrl+C in your API terminal
 python run_predictions.py
 ```
 This will create your deliverable file at `submission/predictions.csv`.
