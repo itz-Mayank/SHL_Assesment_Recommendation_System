@@ -5,7 +5,7 @@ import json
 import pandas as pd
 
 # --- Configuration ---
-API_URL = "http://127.0.0.1:8000/recommend"  # This is your locally running FastAPI
+API_URL = "https://shl-recommender-api.onrender.com/recommend"  # This is your locally running FastAPI
 st.set_page_config(page_title="SHL Recommender", layout="wide")
 
 # --- Header ---
